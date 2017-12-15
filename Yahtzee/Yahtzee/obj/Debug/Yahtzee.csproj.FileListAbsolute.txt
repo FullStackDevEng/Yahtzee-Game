@@ -1,0 +1,6 @@
+C:\Users\GiMu7001\source\repos\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\GiMu7001\source\repos\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\GiMu7001\source\repos\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\GiMu7001\source\repos\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.CoreCompileInputs.cache
+C:\Users\GiMu7001\source\repos\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\GiMu7001\source\repos\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
